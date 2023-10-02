@@ -50,43 +50,43 @@ npm run dev
 
 - GET /contas - Lista todas as contas do Banco.
 
-![Listar Contas](https://drive.google.com/file/d/1LhqyGrPr5j_D0fNS-zKX13WzIQFFjQvG/view?usp=drive_link)
+<img src="https://drive.google.com/file/d/1Uv0cgH6JvFFhXQp1htMm16c5q1VFF7-5/view?usp=drive_link" width="200" />
 
 - POST /contas - Cadastra uma conta no Banco.
 
-![Cadastrar Conta](https://drive.google.com/file/d/1EAJtEwJIXp4krUri-MeOcSlApR_U9h84/view?usp=drive_link)
+<img src="https://drive.google.com/file/d/1jWdcZ2MzKS4dcmFzByE-AypXLxxv9JMB/view?usp=drive_link" width="200" />
 
 - DELETE /contas/:numeroConta - Remove a conta do banco.
 
-![Deletar Conta](https://drive.google.com/file/d/1iFEzYMGK_7hXQg5Iy2XAJTTXBMStHC_3/view?usp=drive_link)
+<img src="https://drive.google.com/file/d/1lsaAqiCuocthUC4noQX0SS11yAs-P7m1/view?usp=drive_link" width="200" />
 
 - PUT /contas/:numeroConta/usuario - Atualiza dados de uma conta existente.
 
-![Atualizar Conta](https://drive.google.com/file/d/1an53MwkTF-qaVIVfnMT8wij9Odri4iaR/view?usp=drive_link)
+<img src="https://drive.google.com/file/d/1r7eQ_E3nC4ifIAkUvj9E0Yzf3t5aNu_Y/view?usp=drive_link" width="200" />
 
 #### As rotas a baixo, precisam no body a especificação do numero da conta e do valor em centavos da transação.
 
 - POST /transacoes/depositar - Deposita valor em centavos na conta desejada.
 
-![Deposito](https://drive.google.com/file/d/1Z0ty_W9LFIxUZBzX7SSenPDATJviX6_6/view?usp=drive_link)
+<img src="https://drive.google.com/file/d/1C8UyAYe5Jn_4jbldJVLnK-SeSdpV6tkB/view?usp=drive_link" width="200" />
 
 - POST /transacoes/saque - Saca valor em centavos da conta desejada.
 
-![Saque](https://drive.google.com/file/d/1mPa9Q7N4D9-ueHKaoYbySLS_7ifTzx8z/view?usp=drive_link)
+<img src="https://drive.google.com/file/d/1wBW1jF0W_89_XTC1eIdhetUX-cHBbGHy/view?usp=drive_link" width="200" />
 
 - POST /transacoes/transferir - Tranfere valor em centavos entre duas contas.
 
-![Transferencia](https://drive.google.com/file/d/1PAY72tkr3DZLbb0f4Dj6NiqsDbCSvyJu/view?usp=drive_link)
+<img src="https://drive.google.com/file/d/1Ld3UtnheN05JyQivyEvWa1nbMZIZ6kxM/view?usp=drive_link" width="200" />
 
 #### As rotas a baixo, precisam da passagem da senha específica da conta pela url:
 
 - GET /transacoes/saldo - Vizualização do saldo  da conta em centavos.
 
-![Saldo](https://drive.google.com/file/d/1Z2e4wJyteEE91usxyLnnU3WFN0Y2rWCB/view?usp=drive_link)
+<img src="https://drive.google.com/file/d/1kZA2mRDioPJE4czNTihQyMk-IfhcHAsS/view?usp=drive_link" width="200" />
 
 - GET /transacoes/extrato - Vizualização do extrato detalhado  da conta em centavos.
 
-![Extrato](https://drive.google.com/file/d/1MaK_UpXXrTk9veluGTqcEe_R4bjXsFFy/view?usp=drive_link)
+<img src="https://drive.google.com/file/d/1u7gV6yULFwxMgJy-klOhuBZK1UjYJZAB/view?usp=drive_link" width="200" />
 
 
 ## :technologist: Contribuidores
