@@ -1,7 +1,6 @@
 # Rest-API-Banco-Digital
 Criação de uma API-Rest com JavaScript e Node.js, auxiliados da biblioteca Express.
 
-<img src="../images/haze-programmer-writing-code-on-laptop-1.png" width="200px" align="right" >
   <p align="left">
 Este projeto é uma API de um sistema Bancário com funções de CRUD, Criação, Atualização, Leitura e Remoção.
   </p>
